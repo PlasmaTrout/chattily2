@@ -1,0 +1,13 @@
+.username {
+    font-weight: bold;
+}
+
+.chatlist {
+    text-decoration: none;
+    list-style: none;
+}
+
+.chatentry {
+    width: 50%;
+    height: 100px;
+}
